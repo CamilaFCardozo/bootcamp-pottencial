@@ -1,2 +1,1 @@
-# bootcamp-pottencial
-Bootcamp DIO (Pottencial .NET Developer)
+# Bootcamp DIO (Pottencial .NET Developer)
