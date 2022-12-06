@@ -1,0 +1,11 @@
+-- Comandos usados na aula
+
+$ git clone https://github.com/CamilaFCardozo/bootcamp-pottencial.git
+$ cd bootcamp-pottencial/
+$ git status
+$ git add .
+$ git commit -m "Inclusão de comandos usados na aula."
+$ git push origin main
+
+
+
